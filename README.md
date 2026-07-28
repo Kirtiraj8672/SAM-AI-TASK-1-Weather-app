@@ -86,18 +86,6 @@ Open `index.html` in your preferred web browser.
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots of your application here.
-
-Example:
-
-```
-images/home-page.png
-```
-
----
-
 # 📚 Learning Outcomes
 
 This project helped me improve my understanding of:
@@ -125,12 +113,17 @@ This project helped me improve my understanding of:
 - 🗺️ Interactive weather map
 
 ---
+## 🌐 Live Demo
 
+https://kirtiraj8672.github.io/SAM-AI-TASK-1-Weather-app/
+
+---
 # 👨‍💻 Author
 
 **Kirtiraj Vansadiya**
 
 GitHub: https://github.com/Kirtiraj8672
+
 
 ---
 
